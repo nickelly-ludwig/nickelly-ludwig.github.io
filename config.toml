@@ -1,5 +1,5 @@
 title = "Honeymoon Photoblog"
-baseURL = 'https://www.honeymoon.ludwi.gg'
+baseURL = 'https://honeymoon.ludwi.gg'
 languageCode = 'en-us'
 theme = "hugo-blog-awesome"
 
@@ -34,7 +34,7 @@ theme = "hugo-blog-awesome"
   description = "A photographic documentation of Kelly and Nick's honeymoon"
 
 [params.author]
-  avatar = "img/avatar.jpg"
+  avatar = "https://i.imgur.com/HEUHW0a.jpeg"
   intro = "Honeymoon Photoblog"
   name = "Kelly and Nick"
   description = "A photographic documentation of Kelly and Nick's honeymoon"
