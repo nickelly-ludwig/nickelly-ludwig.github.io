@@ -22,3 +22,13 @@ draft: false
   ![Local fauna](https://i.imgur.com/5C31lj6.jpeg)
 * Local cuisine
   ![Local cuisine](https://i.imgur.com/FpxIjMX.jpeg)
+* The surreal Watson Lake Dells
+  ![The surreal Watson Lake Dells](https://i.imgur.com/FDu4CS2.jpeg)
+* Kelly and some rocks
+  ![Kelly and some rocks](https://i.imgur.com/vdQ3Yif.jpeg)
+* Nick and some rocks
+  ![Nick and some rocks](https://i.imgur.com/SerUVr8.jpeg)
+* Kelly, some rocks, and the lake
+  ![Kelly, some rocks, and the lake](https://i.imgur.com/YsEKPWh.jpeg)
+* Nick and some more rocks
+  ![Nick and some more rocks](https://i.imgur.com/1M2DbPq.jpeg)
