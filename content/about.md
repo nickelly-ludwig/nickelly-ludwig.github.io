@@ -19,7 +19,7 @@ Where                                               | When
 [Bakersfield, CA](/posts/bakersfield/)              | March 4th
 [Prescott, AZ](/posts/prescott/)                    | March 5th - 12th
 [Grand Canyon Nat'l Park, AZ](/posts/grand-canyon/) | March 12th
-Zion Nat'l Park, UT                                 | March 13th - 16th
+[Zion Nat'l Park, UT](/posts/zion/)                 | March 13th - 16th
 Bryce Canyon Nat'l Park, UT                         | March 17th - 18th
 Provo, UT                                           | March 19th - April 2nd
 Bozeman, MT                                         | April 3rd - 16th
